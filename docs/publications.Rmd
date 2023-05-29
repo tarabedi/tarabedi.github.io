@@ -1,0 +1,50 @@
+---
+title: "Publications"
+output:
+  html_document:
+    fig_width: 1
+---
+
+<br>
+
+### Peer-reviewed book
+
+- Hyperination in Zimbabwe: Background, Impact, and Policy,
+_Palgrave Pivot_ (2019), with T. McIndoe-Calder and R. Mercado.
+
+### In Review
+- Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer's Innovation Fund in Ethiopia (2022), with N. Buehren, M. Goldstein and T. A. Ketema
+
+
+### Publications
+- Formal Financial Inclusion in Kenya: Understanding the Demand-Side Constraints. (2015), with M. King. Chapter in Kenya's Financial Transformation in the 21st Century.} Edited by Amrik Heyer and Michael King. Nairobi, Kenya: FSD Kenya
+- Leading Edge 2020: Critical Thinking on the Future of International Development. (2011), with M. Bateman, L. Gold and O. Moore. Trócaire.
+- My Word is my Bond: Delivery of aid commitments by Ireland. (2010), with B Riordan. Trócaire Development Review 2010, 101-22
+- More than a pretty picture: using poverty maps to design better policies and interventions. (2007), with A. Coudouel and K. Simler. Washington, DC: World Bank.
+- Beyond the numbers: understanding the institutions for monitoring poverty reduction strategies. (2006), with A. Coudouel, M. Cox, M. Goldstein, and N. Thornton. Washington, DC: World Bank.
+- Impact Evaluation and the Project Cycle. (2006), with S. Bhatti, X. Gine, E Galasso, M. Goldstein, and A. Legovini.   
+
+
+### Working Papers
+- Forty Years of Charitable Giving in Ireland: What have we learnt, with  O. B. Breen and J. Carroll.
+- Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King
+- Accountability of public works entitlements in rural India, with L. Kuld. 
+- Income Uncertainty and Preferences for Formal Financial Products: Evidence from Rural Kenya, with M. King.
+
+### Policy Briefs
+- Overview of the Results from the QuIP Report on Concern Worldwide Graduation Programme, Malawi, with Concern Worldwide.
+- The Graduation Model and Gender Empowerment Research Project in Malawi, with Concern Worldwide.
+-  Highlights from the Baseline Survey on the Graduation Households, with Concern Worldwide. 
+- The Umodzi Pilot: Successes and Learnings, with Concern Worldwide.
+
+### Blog posts
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<iframe src="https://www.youtube.com/watch?v=eyvcEuIqstg" data-external= "1" > </iframe>
+
+
+
+
+
+

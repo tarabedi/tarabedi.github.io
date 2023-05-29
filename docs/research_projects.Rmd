@@ -1,0 +1,40 @@
+---
+title: "Research projects"
+output:
+  html_document:
+    fig_width: 1
+---
+
+
+### Gender impacts from the Graduation Programme in Malawi:
+Research website:  https://www.tcd.ie/time/research/malawigraduation/
+
+Designed, secured funding and implemented a randomised control trial (RCT), which studies the impact of varying the gender of the recipient of an anti-poverty programme and a gender empowerment training on intrahousehold bargaining power, well-being, and household poverty. We incorporate a qualitative impact protocol so that we can better understand participants' own interpretation of the programme's impact on their lives. Affiliated authors and institutions: Tara Bedi, James Copestake, Michael King, and Julia Vaillant. Trinity College Dublin, Africa Gender Innovation Lab World Bank, University of Bath. 
+
+
+<br>
+
+### Gender, Social Norms and the Mauritania Social Transfer Programme:
+Research Website: https://www.tcd.ie/time/research/social-protection/gender_mauritania/
+
+Designed, secured funding and implemented a RCT on understanding the impact of gender social norms interventions. The RCT tests the effect of adding a) couples empowerment training and b) community interventions to a cash transfer programme on female empowerment, spousal cohesion and welfare outcomes. We incorporate iterative qualitative research to understand the programme's impact across family structures and social groups. Affiliated authors and institutions: Tara Bedi, Michael King, Rachael Pierotti and Julia Vaillant. Trinity College Dublin and Africa Gender Innovation Lab World Bank 
+
+<br>
+
+### Joint Accounts in the Fintech Era:
+Research website: https://www.tcd.ie/time/research/financial/joint-accounts-india/ 
+
+In a lab experiment setting, we revisit the topic of joint accounts and assess how their terms of labelling, transparency and spousal approval, increasingly varied due to innovations in the fintech sector, affect intrahousehold allocation decisions. We also assess the impact of personally earning money versus gifted money on subsequent expenditure decisions of couples.  Affiliated authors and institutions: Tara Bedi,  Anu Jose and Michael King. Trinity College Dublin.  
+
+
+<br>
+
+### The Donations Project in Ireland:
+
+Designed a research project using the Irish Household Budget Survey, 1987 through 2015, to look at the growth patterns and factors that shifted household donations, including tax policy, over the past four decades. Affiliated authors and institutions: Tara Bedi, Oonagh B. Breen, and James Carroll. Trinity College Dublin and  University College Dublin.
+
+<br>
+
+### Weather Shocks, Poverty and Well-being in Malawi:
+
+In this project, we look at the impact of Cyclone Idai in Malawi on household welfare, well-being and gender dynamics. Affiliated authors and institutions: Tara Bedi, Michael King,  Ilan Noy, and Julia Vaillant. Trinity College Dublin, Africa Gender Innovation Lab World Bank and Victoria University of Wellington, New Zealand. 

@@ -1,0 +1,27 @@
+install pdftk
+
+
+---
+pagetitle: CV
+output:
+  html_document:
+    fig_width: 1
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.pos = 'h')
+```
+
+## Split pdf
+
+```{r}
+staplr::split_pdf("/Users/tarabedi/Desktop/tarabedi.github.io/docs/Tara_Bedi_CV_2023.pdff", output_directory = ".", prefix = "mychart_")
+```
+
+## Add pdfs
+
+```{r label, out.width = "85%", fig.cap = c("caption 1", "caption 2"), echo = FALSE}
+flist <- list.files()
+mychart_files <- flist[grep("mychart_", flist)]
+knitr::include_graphics(/Users/tarabedi/Desktop/tarabedi.github.io/docs/Tara_Bedi_CV_2023.pdf)
+```
