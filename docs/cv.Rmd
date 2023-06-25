@@ -20,7 +20,7 @@ knitr::include_graphics("/Users/tarabedi/Desktop/taraWebsite/docs/files/Tara_Bed
 
 **Citizenship:** Ireland & USA 
 
-**Research Focus:** Economic Development, Applied Microeconomics, Household Behaviour,Gender, Social Protection, Well-Being, Social Norms, Financial Inclusion,  Labour Markets, Accountability, Donations
+**Research Focus:** Economic Development, Applied Microeconomics, Household Behaviour, Gender, Social Protection, Well-Being, Social Norms, Financial Inclusion,  Labour Markets, Accountability, Donations
 
 #### **CURRENT EMPLOYMENT** <br>
 **University of Dublin, Trinity College (TCD)** <br>
