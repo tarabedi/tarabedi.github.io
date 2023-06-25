@@ -7,9 +7,10 @@ output:
   html_document:
     fig_width: 1
 ---
-```{r, out.width="0.3\\linewidth", include=TRUE, fig.align="center", fig.cap=c("CV"), echo=FALSE}
-knitr::include_graphics("/Users/tarabedi/Desktop/taraWebsite/docs/files/Tara_Bedi_CV_2023.pdf")
-```
+
+[Download CV as pdf.](files/Tara_Bedi_CV_Website.pdf)
+
+<br>
 
 ## Tara Sylvia Bedi CV
 
