@@ -22,7 +22,7 @@ knitr::include_graphics("/Users/tarabedi/Desktop/taraWebsite/docs/files/Tara_Bed
 
 **Research Focus:** Economic Development, Applied Microeconomics, Household Behaviour,Gender, Social Protection, Well-Being, Social Norms, Financial Inclusion,  Labour Markets, Accountability, Donations
 
-#### **CURREN EMPLOYMENT** <br>
+#### **CURRENT EMPLOYMENT** <br>
 **University of Dublin, Trinity College (TCD)** <br>
 Department of Economics Dublin, Ireland <br>
 Research Fellow, Since 2021 <br>
@@ -51,10 +51,76 @@ Portland, USA*<br>
 * Hyperinflation in Zimbabwe: Background, Impact, and Policy. (2019), with T. McIndoe-Calder and R. Mercado. Palgrave Pivot.
 * Formal Financial Inclusion in Kenya: Understanding the Demand-Side Constraints. (2015), with M. King. Chapter in Kenya’s Financial Transformation in the 21st Century. Edited by Amrik Heyer and Michael King. Nairobi, Kenya: FSD Kenya
 * Leading Edge 2020: Critical Thinking on the Future of International Development. (2011), with M. Bateman, L. Gold and O. Moore. Tr`ocaire.
-* My Word is my Bond: Delivery of aid commitments by Ireland. (2010), with B Riordan. Tr`ocaire Development Review 2010, 101-22
+* My Word is my Bond: Delivery of aid commitments by Ireland. (2010), with B Riordan. Tr\`{o}caire Development Review 2010, 101-22
 * More than a pretty picture: using poverty maps to design better policies and interventions. (2007), with A. Coudouel and K. Simler. Washington, DC: World Bank.
 * Beyond the numbers: understanding the institutions for monitoring poverty reduction strategies. (2006), with A. Coudouel, M. Cox, M. Goldstein, and N. Thornton. Washington, DC: World Bank.
 * Impact Evaluation and the Project Cycle. (2006), with S. Bhatti, X. Gine, E Galasso, M. Goldstein, and A. Legovini.
 
 #### **WORKING PAPERS**
 
+* Forty Years of Charitable Giving in Ireland: What have we learnt, with O. B. Breen and J. Carroll.
+* Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer’s Innovation Fund in Ethiopia, with N. Buehren, M. Goldstein and T. A. Ketema.
+* Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King
+* Accountability of public works entitlements in rural India, with L. Kuld.
+* Income Uncertainty and Preferences for Formal Financial Products: Evidence from Rural Kenya, with M. King.
+
+#### **POLICY BRIEFS**
+* Overview of the Results from the QuIP Report on Concern Worldwide Graduation Programme, Malawi, with Concern Worldwide.
+* The Graduation Model and Gender Empowerment Research Project in Malawi, with Concern Worldwide.
+* Highlights from the Baseline Survey on the Graduation Households, with Concern Worldwide. 
+* The Umodzi Pilot: Successes and Learnings, with Concern Worldwide.
+
+#### **TEACHING EXPERIENCE**
+**Trinity College Dublin** <br>
+Dublin, Ireland
+
+* Module Coordinator & Lecturer, Impact Measurement
+<br>Masters in Development Practice, 2018 - 2023
+* Lecturer, Survey Design and Qualitative Evaluation Methods, <br>
+Trinity IMpact Evaluation (TIME) Online Course on Impact Evaluation, 2021 - 2023
+* Supervision of nine master dissertations <br>
+Masters in Development Practice, 2021 - 2023
+* Teaching Assistant, Microeconomics (2nd year) <br>
+Department of Economics, 2016 - 2017
+* Lecturer, Economics of Less Developed Countries (3rd year)  <br>
+Department of Economics, 2015 - 2016
+* Teaching Assistant, Introduction to Economic Policy (1st year) <br>
+Department of Economics, 2013 - 2014 
+
+#### **Honours, Awards, Grants**
+
+* Gender Norms and the Mauritania Social Transfer Programme (2021 - 2024), with Michael King, Rachael Pierotti and Julia Vaillant. Funder 1: World Bank (\$320,750); Funder 2: International Food Policy Research Institute (IFPRI) (\$125,000)
+* Impact Evaluation of Concern’s Graduation Model in Malawi (2017 - 2022), with Michael King. Funder: Concern Worldwide (\€1,417,060)
+* Impact of a gender targeted graduation model and norm-transforming intervention on IPV (2020 - 2022), with Michael King and A. Ramos. Funder: Innovations for Poverty Action (IPA) (\$30,183.00)
+* Marie Sk\l{}odowska-Curie Actions COFUND Collaborative International Research Fellowship for a Responsive and Innovative Europe (CAROLINE). (2017 - 2022) “Understanding the Gender and Inequality: Dimensions of a Leading Multifaceted Anti-Poverty Programme (the Graduation Model).” Funder: Irish Research Council (\€205,120)
+* Government of Ireland Postgraduate Scholarship (2014 - 2017). Funder: Irish Research Council
+* Department Scholarship, Department of Economics (2013 - 2017). Funder: Trinity College Dublin
+* John F. Kennedy Scholarship. (2002 - 2004). Funder: Harvard University (\$20,000)
+* Mary Stuart Rogers Scholar (1999). Funder: Lewis & Clark College (\$5,000)
+
+#### **CURRENT RESEARCH PROJECTS**
+
+**RANDOMISED CONTROL TRIALS**
+
+* *Gender impacts from the Graduation Programme in Malawi:* Designed, secured funding and implemented a randomised control trial (RCT), which studies the impact of varying the gender of the recipient of an anti-poverty programme and a gender empowerment training on intrahousehold bargaining power, well-being, and household poverty. We incorporate a qualitative impact protocol so that we can better understand participants’ own interpretation of the programme’s impact on their lives. Affiliated authors and institutions: Tara Bedi, James Copestake, Michael King, and Julia Vaillant. Trinity College Dublin, Africa Gender Innovation Lab World Bank, University of Bath.<br>
+Research website: https://www.tcd.ie/time/research/malawigraduation/
+* *Gender, Social Norms and the Mauritania Social Transfer Programme:* Designed, secured funding and implemented a RCT on understanding the impact of gender social norms interventions. The RCT tests the effect of adding a) couples empowerment training and b) community interventions to a cash transfer programme on female empowerment, spousal cohesion and welfare outcomes. We incorporate iterative qualitative research to understand the programme's impact across family structures and social groups. Affiliated authors and institutions: Tara Bedi, Michael King, Rachael Pierotti and Julia Vaillant. Trinity College Dublin and Africa Gender Innovation Lab World Bank <br>
+Research website: https://www.tcd.ie/time/research/social-protection/gender_mauritania/
+
+**LAB EXPERIMENTS**
+
+* *Joint Accounts in the Fintech Era:*}}* We revisit the topic of joint accounts and assess how their terms of labelling, transparency and spousal approval, increasingly varied due to innovations in the fintech sector, affect intrahousehold allocation decisions.  We also assess the impact of personally earning money versus gifted money on subsequent expenditure decisions of couples.  Affiliated authors and institutions: Tara Bedi,  Anu Jose and Michael King. Trinity College Dublin. <br>
+Research website: https://www.tcd.ie/time/research/financial/joint-accounts-india/
+
+**OTHER PROJECTS**
+
+* *The Donations Project in Ireland:* Designed a research project using the Irish Household Budget Survey, 1987 through 2015, to look at the growth patterns and factors that shifted household donations, including tax policy, over the past four decades. Affiliated authors and institutions: Tara Bedi, Oonagh B. Breen, and James Carroll. Trinity College Dublin and  University College Dublin. 
+* *Weather Shocks, Poverty and Well-being in Malawi:*  In this project, we look at the impact of Cyclone Idai in Malawi on household welfare, well-being and gender dynamics. Affiliated authors and institutions: Tara Bedi, Michael King,  Ilan Noy, and Julia Vaillant. Trinity College Dublin, Africa Gender Innovation Lab World Bank and Victoria University of Wellington, New Zealand.
+
+#### **WORK EXPERIENCE**
+
+**UNU-WIDER** <br>
+Dublin, Ireland <br>
+*Short-term consultant*, 2017 
+
+* Analysed and wrote a chapter on household credit access in Vietnam from the latest round of Vietnam Access to Resources Household Survey (VARHS)
