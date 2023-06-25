@@ -38,10 +38,7 @@ _Palgrave Pivot_ (2019), with T. McIndoe-Calder and R. Mercado.
 - The Umodzi Pilot: Successes and Learnings, with Concern Worldwide.
 
 ### Blog posts
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-<iframe src="https://www.youtube.com/watch?v=eyvcEuIqstg" data-external= "1" > </iframe>
+[Brand Called You](https://www.youtube.com/watch?v=eyvcEuIqstg)
 
 
 

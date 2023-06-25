@@ -7,7 +7,7 @@ output:
 ---
 
 ----
-Welcome, I am a development economist with a focus on gender, social protection and mental well-being. My research interest also includes Labour Markets, Social Norms, Financial Inclusion, Accountability, and Donations. I work on projects in Ethiopia, India, Malawi, Mauritania, Kenya and Ireland. 
+Welcome, I am a development economist with a focus on behaviour change, gender, social protection and mental well-being. My research interest also includes Labour Markets, Social Norms, Financial Inclusion, Accountability, and Donations. I work on projects in Ethiopia, India, Malawi, Mauritania, Kenya and Ireland. 
 
 I am currently a Research Fellow in the Economics Department at Trinity College Dublin.  Prior to this, I was a Marie Curie (CAROLINE) Irish Research Council Research Fellow. I have a PhD in Development Economics from Trinity College Dublin.  I also received a master’s degree in Public Administration in International Development from the Harvard Kennedy School.
 

@@ -1,4 +1,4 @@
-install pdftk
+
 
 
 ---
@@ -7,8 +7,54 @@ output:
   html_document:
     fig_width: 1
 ---
-
-```{r global_options, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, fig.pos = 'h')
+```{r, out.width="0.3\\linewidth", include=TRUE, fig.align="center", fig.cap=c("CV"), echo=FALSE}
+knitr::include_graphics("/Users/tarabedi/Desktop/taraWebsite/docs/files/Tara_Bedi_CV_2023.pdf")
 ```
+
+## Tara Sylvia Bedi CV
+
+#### **Contact Information**<br>
+*Address:* 69 Donore Avenue, Dublin 8  <br>
+*Phone:* +353 879575490 <br>
+*E-mail:* tbedi@tcd.ie  <br>
+
+**Citizenship:** Ireland & USA 
+
+**Research Focus:** Economic Development, Applied Microeconomics, Household Behaviour,Gender, Social Protection, Well-Being, Social Norms, Financial Inclusion,  Labour Markets, Accountability, Donations
+
+#### **CURREN EMPLOYMENT** <br>
+**University of Dublin, Trinity College (TCD)** <br>
+Department of Economics Dublin, Ireland <br>
+Research Fellow, Since 2021 <br>
+MSCActions Research Fellow, 2017-2020
+
+#### **EDUCATION** <br>
+**University of Dublin, Trinity College (TCD)** <br>
+Dublin, Ireland <br>
+*Ph.D. Development Economics*, 2013 - 2018 <br>
+
+* Dissertation Topic: “Innovative and effective financial services and information awareness for inclusive poverty reduction: The role of mobile banking and awareness programmes in changing saving, credit and employment behaviour of poor households and the resulting impact on household welfare.”
+* Advisor: Michael King
+* Committee: Andrew McKay, Tara Mitchell
+
+**Harvard Kennedy School of Government**<br>
+Cambridge, USA<br>
+*Master of Public Administration in International Development*, 2002 - 2004 <br>
+Core subjects: Analysing politics for policy, human rights and international politics, good governance and democratisation, legal, social and political institutions in development, resource contes- tation, development policy analysis & design, advanced micro and macro economics, econometrics
+
+**Lewis & Clark College, Economics Department***<br>
+Portland, USA*<br>
+*BA in Economics with Honours*, 1996 - 2000
+
+#### **PUBLICATIONS**
+
+* Hyperinflation in Zimbabwe: Background, Impact, and Policy. (2019), with T. McIndoe-Calder and R. Mercado. Palgrave Pivot.
+* Formal Financial Inclusion in Kenya: Understanding the Demand-Side Constraints. (2015), with M. King. Chapter in Kenya’s Financial Transformation in the 21st Century. Edited by Amrik Heyer and Michael King. Nairobi, Kenya: FSD Kenya
+* Leading Edge 2020: Critical Thinking on the Future of International Development. (2011), with M. Bateman, L. Gold and O. Moore. Tr`ocaire.
+* My Word is my Bond: Delivery of aid commitments by Ireland. (2010), with B Riordan. Tr`ocaire Development Review 2010, 101-22
+* More than a pretty picture: using poverty maps to design better policies and interventions. (2007), with A. Coudouel and K. Simler. Washington, DC: World Bank.
+* Beyond the numbers: understanding the institutions for monitoring poverty reduction strategies. (2006), with A. Coudouel, M. Cox, M. Goldstein, and N. Thornton. Washington, DC: World Bank.
+* Impact Evaluation and the Project Cycle. (2006), with S. Bhatti, X. Gine, E Galasso, M. Goldstein, and A. Legovini.
+
+#### **WORKING PAPERS**
 
