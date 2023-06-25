@@ -7,7 +7,17 @@ output:
 ---
 
 ----
-Welcome, I am a development economist with a focus on behaviour change, gender, social protection and mental well-being. My research interest also includes Labour Markets, Social Norms, Financial Inclusion, Accountability, and Donations. I work on projects in Ethiopia, India, Malawi, Mauritania, Kenya and Ireland. 
+
+<!-- ![Picture of Tara Bedi](files/ipa-gprl-conference-headshots-11.jpg){#id .class width=20% height=20%}-->
+<div style= "float:right;position: relative; top: -10px;">
+```{r pressure, echo=FALSE, out.width = "20% height=20%", fig.align = "center"}
+knitr::include_graphics("files/ipa-gprl-conference-headshots-11.jpg")
+```
+</div>
+
+
+
+Welcome, I am a development economist with a focus on behaviour change, gender, social protection and mental well-being. My research interests also includes Labour Markets, Social Norms, Financial Inclusion, Accountability, and Donations. I work on projects in Ethiopia, India, Malawi, Mauritania, Kenya and Ireland. 
 
 I am currently a Research Fellow in the Economics Department at Trinity College Dublin.  Prior to this, I was a Marie Curie (CAROLINE) Irish Research Council Research Fellow. I have a PhD in Development Economics from Trinity College Dublin.  I also received a master’s degree in Public Administration in International Development from the Harvard Kennedy School.
 
