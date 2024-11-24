@@ -12,9 +12,11 @@ output:
 - Hyperination in Zimbabwe: Background, Impact, and Policy,
 _Palgrave Pivot_ (2019), with T. McIndoe-Calder and R. Mercado.
 
-### In Review
-- Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer's Innovation Fund in Ethiopia (2022), with N. Buehren, M. Goldstein and T. A. Ketema
+### R \& R
+- Accountability of public works entitlements in rural India, with L. Kuld.
 
+### In Review
+- Forty Years of Charitable Giving in Ireland: What have we learnt, with  O. B. Breen and J. Carroll.
 
 ### Publications
 - Formal Financial Inclusion in Kenya: Understanding the Demand-Side Constraints. (2015), with M. King. Chapter in Kenya's Financial Transformation in the 21st Century.} Edited by Amrik Heyer and Michael King. Nairobi, Kenya: FSD Kenya
@@ -26,9 +28,8 @@ _Palgrave Pivot_ (2019), with T. McIndoe-Calder and R. Mercado.
 
 
 ### Working Papers
-- Forty Years of Charitable Giving in Ireland: What have we learnt, with  O. B. Breen and J. Carroll.
 - Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King
-- Accountability of public works entitlements in rural India, with L. Kuld. 
+ - Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer's Innovation Fund in Ethiopia (2022), with N. Buehren, M. Goldstein and T. A. Ketema
 - Income Uncertainty and Preferences for Formal Financial Products: Evidence from Rural Kenya, with M. King.
 
 ### Policy Briefs
