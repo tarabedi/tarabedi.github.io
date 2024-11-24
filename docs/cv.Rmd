@@ -15,18 +15,17 @@ output:
 ## Tara Sylvia Bedi CV
 
 #### **Contact Information**<br>
-*Address:* 69 Donore Avenue, Dublin 8  <br>
+*Address:* Museum Building, Trinity College, Dublin  <br>
 *E-mail:* tbedi@tcd.ie  <br>
 
 **Citizenship:** Ireland & USA 
 
-**Research Focus:** Economic Development, Applied Microeconomics, Household Behaviour, Gender, Social Protection, Well-Being, Social Norms, Financial Inclusion,  Labour Markets, Accountability, Donations
+**Research Focus:** Economic Development, Applied Microeconomics, Household Behaviour, Gender, Social Protection, Well-Being, Climate Adaptation, Social Norms, Financial Inclusion,  Labour Markets, Accountability, Donations
 
 #### **CURRENT EMPLOYMENT** <br>
 **University of Dublin, Trinity College (TCD)** <br>
-Department of Economics Dublin, Ireland <br>
-Research Fellow, Since 2021 <br>
-MSCActions Research Fellow, 2017-2020
+Department of Geography Dublin, Ireland <br>
+Assistant Professor in Development Practice, Since 2024 <br>
 
 #### **EDUCATION** <br>
 **University of Dublin, Trinity College (TCD)** <br>
@@ -56,12 +55,14 @@ Portland, USA*<br>
 * Beyond the numbers: understanding the institutions for monitoring poverty reduction strategies. (2006), with A. Coudouel, M. Cox, M. Goldstein, and N. Thornton. Washington, DC: World Bank.
 * Impact Evaluation and the Project Cycle. (2006), with S. Bhatti, X. Gine, E Galasso, M. Goldstein, and A. Legovini.
 
+#### **R\&R**
+* Accountability of public works entitlements in rural India, with L. Kuld.
+
 #### **IN REVIEW**
-* Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer’s Innovation Fund in Ethiopia, with N. Buehren, M. Goldstein and T. A. Ketema.
+* Forty Years of Charitable Giving in Ireland: What have we learnt, with O. B. Breen and J. Carroll.
 
 #### **WORKING PAPERS**
-
-* Forty Years of Charitable Giving in Ireland: What have we learnt, with O. B. Breen and J. Carroll.
+* Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer’s Innovation Fund in Ethiopia, with N. Buehren, M. Goldstein and T. A. Ketema.
 * Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King
 * Accountability of public works entitlements in rural India, with L. Kuld.
 * Income Uncertainty and Preferences for Formal Financial Products: Evidence from Rural Kenya, with M. King.
@@ -79,27 +80,32 @@ Portland, USA*<br>
 
 #### **TEACHING EXPERIENCE**
 **Trinity College Dublin** <br>
-Dublin, Ireland
-
-* Module Coordinator & Lecturer, Impact Measurement
-<br>Masters in Development Practice, 2018 - 2023
-* Lecturer, Survey Design and Qualitative Evaluation Methods, <br>
-Trinity IMpact Evaluation (TIME) Online Course on Impact Evaluation, 2021 - 2023
-* Supervision of nine master dissertations <br>
-Masters in Development Practice, 2021 - 2023
-* Teaching Assistant, Microeconomics (2nd year) <br>
-Department of Economics, 2016 - 2017
-* Lecturer, Economics of Less Developed Countries (3rd year)  <br>
-Department of Economics, 2015 - 2016
-* Teaching Assistant, Introduction to Economic Policy (1st year) <br>
-Department of Economics, 2013 - 2014 
+Dublin, Ireland <br>
+* Module Coordinator & Lecturer, Theories of Development, 
+Masters in Development Practice, 2024  <br>
+* Module Coordinator & Lecturer, Dissertation \& Work Placement, 
+Masters in Development Practice, 2024  <br>
+* Module Coordinator & Lecturer, Dissertation \& Gender and Development, 
+Masters in Development Practice, 2023-2024  <br>
+* Module Coordinator & Lecturer, Impact Measurement, 
+Masters in Development Practice, 2018 - 2024  <br>
+* Lecturer, Survey Design and Qualitative Evaluation Methods, 
+Trinity IMpact Evaluation (TIME) Online Course on Impact Evaluation, 2021 - 2024  <br>
+* Supervision of 16 master dissertations, 
+Masters in Development Practice, 2021 - 2024  <br>
+* Teaching Assistant, Microeconomics (2nd year), 
+Department of Economics, 2016 - 2017  <br>
+* Lecturer, Economics of Less Developed Countries (3rd year), 
+Department of Economics, 2015 - 2016  <br>
+* Teaching Assistant, Introduction to Economic Policy (1st year), 
+Department of Economics, 2013 - 2014  <br>
 
 #### **Honours, Awards, Grants**
 
 * Mental Well-Being and School-Related Gender Based Violence: Evidence from Zambia (2023 - 2025), with Wei Chang, Menaal Ebrahim, Anu Jose, Michael King, and Sophia Friedson-Ridenour. Funder: World Bank (\${250,000})
 * Gender Norms and the Mauritania Social Transfer Programme (2021 - 2024), with Michael King, Rachael Pierotti and Julia Vaillant. Funder 1: World Bank (\$320,750); Funder 2: International Food Policy Research Institute (IFPRI) (\$125,000)
-* Impact Evaluation of Concern’s Graduation Model in Malawi (2017 - 2024), with Michael King. Funder: Concern Worldwide (\€2,150,000)
-* Impact of a gender targeted graduation model and norm-transforming intervention on IPV (2020 - 2022), with Michael King and A. Ramos. Funder: Innovations for Poverty Action (IPA) (\$30,183.00)
+* Impact Evaluation of Concern’s Graduation Model in Malawi (2017 - 2025), with Michael King. Funder: Concern Worldwide (\€2,250,000)
+* Impact of a gender targeted graduation model and norm-transforming intervention on IPV (2020 - 2025), with Michael King and A. Ramos. Funder: Innovations for Poverty Action (IPA) (\$200,000.00)
 * Marie Sk\l{}odowska-Curie Actions COFUND Collaborative International Research Fellowship for a Responsive and Innovative Europe (CAROLINE). (2017 - 2022) “Understanding the Gender and Inequality: Dimensions of a Leading Multifaceted Anti-Poverty Programme (the Graduation Model).” Funder: Irish Research Council (\€205,120)
 * Government of Ireland Postgraduate Scholarship (2014 - 2017). Funder: Irish Research Council (\€78,000)
 * Department Scholarship, Department of Economics (2013 - 2017). Funder: Trinity College Dublin (\€20,000)
@@ -132,8 +138,6 @@ Research website: https://www.tcd.ie/time/research/financial/joint-accounts-indi
 
 **OTHER PROJECTS**
 
-* *The Donations Project in Ireland:* Designed a research project using the Irish Household Budget Survey, 1987 through 2015, to look at the growth patterns and factors that shifted household donations, including tax policy, over the past four decades. Affiliated authors and institutions: Tara Bedi, Oonagh B. Breen, and James Carroll. Trinity College Dublin and  University College Dublin. 
-
 * *Weather Shocks, Poverty and Well-being in Malawi:*  In this project, we look at the impact of Cyclone Idai in Malawi on household welfare, well-being and gender dynamics. Affiliated authors and institutions: Tara Bedi, Michael King,  Ilan Noy, and Julia Vaillant. Trinity College Dublin, Africa Gender Innovation Lab World Bank and Victoria University of Wellington, New Zealand.
 
 * *The Contrasting Profile of Spousal Mental Well-being In Africa, Evidence from Malawi:* Making use of a detailed panel survey data from Malawi, this research will focus on whether spouses in poor households of rural Malawi differ in their mental health status. Our measures include GAD, self-efficacy, and an index of depression/stress/life satisfaction. The paper will investigate potential correlates, including social norms, that may explain any differentials between the mental health of men and women. Affiliated authors and institutions: Tara Bedi,  Anu Jose and Michael King. Trinity College Dublin. 
@@ -143,6 +147,11 @@ Research website: https://www.tcd.ie/time/research/financial/joint-accounts-indi
 * *Exploring Intra-Household Gender Differences in Reporting Exposure to Shocks:* Poor households are more susceptible to face negative shocks, which may undermine development and anti-poverty interventions. Yet, in attempting to understand households' exposure to shocks, it might be imperative to consider the gender of the respondent when utilising survey-based measures. A growing body of literature is exposing intra-household gender differences in survey reporting of various socio-economic measures, even those seemingly objective. This paper contributes by adding a ``shock''dimension to this literature. Using survey data that captures household shock reports by both the male and female spouse within a household in rural Malawi, the paper aims to establish whether men and women report household shocks differently. Moreover, it seeks to explore possible mechanisms that correlate with spousal concordance, and whether concordance can be associated with women's wellbeing outcomes. The results of this paper will make valuable contributions to research using survey-based measures to study household shocks. For instance, if systematic differences are detected, reliance on responses from only one spouse might entail biases which should be carefully considered when targeting, or evaluating the impact of, development interventions based on these measures.  Affiliated authors and institutions: Nouf Abushehab, Tara Bedi, and Michael King. Trinity College Dublin.
 
 #### **WORK EXPERIENCE**
+
+**University of Dublin, Trinity College (TCD)** <br>
+Department of Economics Dublin, Ireland <br>
+Research Fellow, 2021-2023 <br>
+MSCActions Research Fellow, 2017-2020
 
 **UNU-WIDER**, Dublin, Ireland <br>
 Dublin, Ireland <br>
@@ -198,17 +207,20 @@ Non-profit refugee resettlement service organisation
 
 * Master in Development Practice, Course Committee Member, Trinity College Dublin
 * Board Director of Plan International Ireland
-* Researcher Gathering on Financial Inclusion and Social Protection, 2022 (Chicago); European Research Network On Philanthropy (ERNOP) Conference, 2021 (Dublin); Africa Gender Equal- ity Conference, 2021 (virtual); UN Commission for the Status of Women, 2021 (virtual); the Gen- der Study Group, 2021 (virtual); MenEngage Ubuntu Symposium, 2021 (virtual); RESULTS.org, 2019 (virtual); Irish Aid, 2019 (Malawi); World Bank, 2019 (Washington DC and Malawi); Gates Foundation, 2019 (Seattle); Skoll Ecosystem Session: Poverty Graduation & Women’s Economic Empowerment, 2019 (Oxford); DIAL Development conference, 2017 (Paris); NORDIC conference in Development Economic, 2016 (Oslo).
-*  Certificates: Social Norms, Social Change I. Social Norms, Social Change II
+* Certificates: Social Norms, Social Change I. Social Norms, Social Change II
 
 #### **CONFERENCES AND INVITED PRESENTATIONS**
 
-*  Re-imagining Social Protection in a time of Global Uncertainty, 2023 (Brighton, upcoming) 
-*  Keynote: Disruptive Technologies in Computing and Communication Systems, 2023 (Hyderabad)
-*  Researcher Gathering on Financial Inclusion and Social Protection, 2022 (Chicago)
-*  Irish Aid, 2021 (Malawi)
-*  Graduation Programme Learning Event: Concern Worldwide in collaboration with Ministry of EP\&D, 2021 (Malawi)
-*  European Research Network On Philanthropy (ERNOP) Conference, 2021 (Dublin)
+* Basic Income Network Conference 2024 (Bath)
+* Western Economic Association (WEAI) Conference, 2024 (Seattle)
+* Gates Foundation, 2019 \& 2024 (Seattle)
+* Northeastern Universities Development Consortium (NEUDC), 2023 (Boston)
+* World Bank, 2024 (Washington D.C)
+* Researcher Gathering on Financial Inclusion and Social Protection, 2022 \& 2023 (Chicago)
+* Re-imagining Social Protection in a time of Global Uncertainty, 2023 (Brighton) 
+* Keynote: Disruptive Technologies in Computing and Communication Systems, 2023 (Hyderabad)
+* Irish Aid, 2021 (Malawi)
+* Graduation Programme Learning Event: Concern Worldwide in collaboration with Ministry of EP\&D, 2021 \& 2023 (Malawi)
 *  Africa Gender Equality Conference, 2021 (virtual)
 *  UN Commission for the Status of Women, 2021 (virtual)
 *  The Gender Study Group, 2021 (virtual)
@@ -216,7 +228,6 @@ Non-profit refugee resettlement service organisation
 *  RESULTS.org, 2019 (virtual)
 *  Irish Aid, 2019 (Malawi)
 *  World Bank, 2019 (Washington DC and Malawi)
-*  Gates Foundation, 2019 (Seattle)
 *  Skoll Ecosystem Session: Poverty Graduation \& Women's Economic Empowerment, 2019 (Oxford)
 *  DIAL Development conference, 2017 (Paris)
 *  NORDIC conference in Development Economic, 2016 (Oslo)
