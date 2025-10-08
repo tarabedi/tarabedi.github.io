@@ -16,11 +16,9 @@ Designed, secured funding and implemented a four arm (three treatments and one c
 
 <br>
 
-### Female Empowerment, Well Being and Marriage Quality: A Mixed-Method Evaluation of A Gender Focused Multifaceted Anti-Poverty Programme in Malawi
+### Mental Well-Being and School-Related Gender Based Violence, Evidence from Zambia
 
-Designed a mixed methods evaluation that incorporates a qualitative study along side the RCT on the gender focused multifaceted anti-poverty, ‘graduation’, program in Malawi. The objective of this research is to enable a deeper understanding of participants’ own interpretation of the programme’s impact on their empowerment and household relations. The qualitative component involved two rounds of the Qualitative Impact Protocol (QuIP), a method for mapping causal drivers of change from the perspective of female participants, where the qualitative researchers are partially ‘blindfolded’ to reduce pro-project and confirmation bias. The RCT comprised ‘before’ and ‘after’ surveys, separated by 24 months, of both spouses. Affiliated authors and institutions: Rebekah Avard, Tara Bedi, James Copestake, and Michael King. Trinity College Dublin, University of Bath.
-
-
+Using a randomised control trial (RCT), with randomisation at the school level, this study will evaluate the impact of the empowerment programme on adolescent girls' knowledge of school related gender based violence (SRGBV); attitudes and norms around gender roles, corporal punishment, bullying, sexual violence, and response to SRGBV; socio-emotional skills; mental health and social support. Data will be collected from approximately 3,000 adolescent girls and their teachers/peers/caregivers across three districts in Zambia. Affiliated authors and institutions: Tara Bedi, Wei Chang, Menaal Ebrahim, Anu Jose, Michael King, and Sophia Friedson-Ridenour. Trinity College Dublin, Africa Gender Innovation Lab World Bank.
 
 
 <br>
@@ -32,8 +30,8 @@ Designed, secured funding and implemented a RCT on understanding the impact of g
 
 <br>
 
-###  Gender Norms and the Mauritania Social Transfer Program:
-Designed and secured funding for a qualitative research project on a cash transfer combined with gender norms programming to study 1) the role of complementary programming and the 2) mechanisms underlying the impact of cash transfers on intimate partner violence.The research team will examine the mechanisms of impact and how they vary across different versions of the gender norms programme. This will include investigation of changes at the household level and the possibility of socially transformative changes (Molyneux et al. 2016). The study will use a combination of Qualitative Impact Protocol (QuIP) interviews at the household level, Focus Group Discussions (FDGs) and observational ethnographic research within communities. Affiliated authors and institutions: Tara Bedi, Claire Boxho, James Copestake, Michael King, Rachael Pierotti, Fiona Remnant and Julia Vaillant. Trinity College Dublin and Africa Gender Innovation Lab World Bank, University of Bath.
+###  Gender Focused Multi-Faceted Anti-Poverty Programs: Low-Cost Options for Scale-up in Uganda:
+Designed and secured funding to implement an RCT that tests a) whether we can replicate  our Malawi results in a different setting, with a less intensive group-based graduation program, and at a lower implementation cost, and b) whether impacts are strengthened through adding a low-cost community level intervention. Affiliated authors and institutions: Tara Bedi and Michael King.  Trinity College Dublin. 
 
 
 
@@ -46,9 +44,9 @@ In a lab experiment setting, we revisit the topic of joint accounts and assess h
 <br>
 
 
-### Weather Shocks, Poverty and Well-being:
+### Gender Dynamics and Climate Resilience for Sri Lanka's poor:
 
-In this project, we look at the impact of Cyclone Idai in Malawi on household welfare, well-being and gender dynamics. Affiliated authors and institutions: Tara Bedi, Michael King, Ilan Noy, and Julia Vaillant. Trinity College Dublin, Africa Gender Innovation Lab World Bank and Victoria University of Wellington, New Zealand. 
+Designing an RCT that investigates how anti-poverty programmes can build climate resilience through 1) climate-smart agriculture; 2)  family cooperation and gender empowerment;  and 3) the interaction between the two.  Affiliated authors and institutions: Tara Bedi, Thomas Bossuroy, Michael King, and Dalal Moosa. Trinity College Dublin, World Bank.
 
 <br>
 
@@ -63,7 +61,8 @@ Poor households are more susceptible to face negative shocks, which may undermin
 
 <br>
 
-### The Contrasting Profile of Spousal Mental Well-being In Africa, Evidence from Malawi:
-Making use of a detailed panel survey data from Malawi, this research will focus on whether spouses in poor households of rural Malawi differ in their mental health status. Our measures include GAD, self-efficacy, and an index of depression/stress/life satisfaction. The paper will investigate potential correlates, including social norms, that may explain any differentials between the mental health of men and women. Affiliated authors and institutions:} Tara Bedi,  Anu Jose and Michael King. Trinity College Dublin.
+### Empowering Women Farmers through Precision Agriculture and Market E-Linkages:  
+
+Our mixed methods research  investigates the effect of leveraging agronomically and climate-informed Digital Agricultural Technology (DAT) to provide site-specific advisories on crop management, soil quality, and climate-smart practices, specifically targeting women farmers, on household agriculture productivity, climate adaptation, income and women's empowerment. We are currently designing a lab in the field experiment to disentangle key preferences and take up for digital agriculture technology. Affiliated authors and institutions: Supriya Garikipati, Tara Bedi, John O Omondi,  Kevin McDonnell, Richard Petautchere, Marta Talevi.  University College Dublin, Trinity College Dublin, IITA-Malawi, NASFAM
 
 <br>
