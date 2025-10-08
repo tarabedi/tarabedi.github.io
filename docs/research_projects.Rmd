@@ -11,15 +11,11 @@ Research website:  https://www.tcd.ie/time/research/malawigraduation/
 
 Designed, secured funding and implemented a four arm (three treatments and one control) randomised control trial (RCT) from a pool of 3,200 eligible poor married households in rural Malawi. The research studies the impact of varying the gender of the recipient of an anti-poverty programme (the Graduation program) and a gender empowerment training on intrahousehold bargaining power, well-being, and household poverty. Affiliated authors and institutions: Tara Bedi, Michael King, and Julia Vaillant. Trinity College Dublin, Africa Gender Innovation Lab World Bank.
 
-
-
-
 <br>
 
-### Mental Well-Being and School-Related Gender Based Violence, Evidence from Zambia
+### Empowering Women Farmers through Precision Agriculture and Market E-Linkages:  
 
-Using a randomised control trial (RCT), with randomisation at the school level, this study will evaluate the impact of the empowerment programme on adolescent girls' knowledge of school related gender based violence (SRGBV); attitudes and norms around gender roles, corporal punishment, bullying, sexual violence, and response to SRGBV; socio-emotional skills; mental health and social support. Data will be collected from approximately 3,000 adolescent girls and their teachers/peers/caregivers across three districts in Zambia. Affiliated authors and institutions: Tara Bedi, Wei Chang, Menaal Ebrahim, Anu Jose, Michael King, and Sophia Friedson-Ridenour. Trinity College Dublin, Africa Gender Innovation Lab World Bank.
-
+Our mixed methods research  investigates the effect of leveraging agronomically and climate-informed Digital Agricultural Technology (DAT) to provide site-specific advisories on crop management, soil quality, and climate-smart practices, specifically targeting women farmers, on household agriculture productivity, climate adaptation, income and women's empowerment. We are currently designing a lab in the field experiment to disentangle key preferences and take up for digital agriculture technology. Affiliated authors and institutions: Supriya Garikipati, Tara Bedi, John O Omondi,  Kevin McDonnell, Richard Petautchere, Marta Talevi.  University College Dublin, Trinity College Dublin, IITA-Malawi, NASFAM
 
 <br>
 
@@ -33,20 +29,17 @@ Designed, secured funding and implemented a RCT on understanding the impact of g
 ###  Gender Focused Multi-Faceted Anti-Poverty Programs: Low-Cost Options for Scale-up in Uganda:
 Designed and secured funding to implement an RCT that tests a) whether we can replicate  our Malawi results in a different setting, with a less intensive group-based graduation program, and at a lower implementation cost, and b) whether impacts are strengthened through adding a low-cost community level intervention. Affiliated authors and institutions: Tara Bedi and Michael King.  Trinity College Dublin. 
 
-
-
-### Joint Accounts in the Fintech Era:
-Research website: https://www.tcd.ie/time/research/financial/joint-accounts-india/ 
-
-In a lab experiment setting, we revisit the topic of joint accounts and assess how their terms of labelling, transparency and spousal approval, increasingly varied due to innovations in the fintech sector, affect intrahousehold allocation decisions. We also assess the impact of personally earning money versus gifted money on subsequent expenditure decisions of couples.  Affiliated authors and institutions: Tara Bedi, Anu Jose and Michael King. Trinity College Dublin.  
-
-
 <br>
-
 
 ### Gender Dynamics and Climate Resilience for Sri Lanka's poor:
 
 Designing an RCT that investigates how anti-poverty programmes can build climate resilience through 1) climate-smart agriculture; 2)  family cooperation and gender empowerment;  and 3) the interaction between the two.  Affiliated authors and institutions: Tara Bedi, Thomas Bossuroy, Michael King, and Dalal Moosa. Trinity College Dublin, World Bank.
+
+<br>
+
+### Mental Well-Being and School-Related Gender Based Violence, Evidence from Zambia
+
+Using a randomised control trial (RCT), with randomisation at the school level, this study will evaluate the impact of the empowerment programme on adolescent girls' knowledge of school related gender based violence (SRGBV); attitudes and norms around gender roles, corporal punishment, bullying, sexual violence, and response to SRGBV; socio-emotional skills; mental health and social support. Data will be collected from approximately 3,000 adolescent girls and their teachers/peers/caregivers across three districts in Zambia. Affiliated authors and institutions: Tara Bedi, Wei Chang, Menaal Ebrahim, Anu Jose, Michael King, and Sophia Friedson-Ridenour. Trinity College Dublin, Africa Gender Innovation Lab World Bank.
 
 <br>
 
@@ -56,13 +49,15 @@ Using a household-level panel survey from Malawi containing a detailed mental we
 
 <br>
 
+### Joint Accounts in the Fintech Era:
+Research website: https://www.tcd.ie/time/research/financial/joint-accounts-india/ 
+
+In a lab experiment setting, we revisit the topic of joint accounts and assess how their terms of labelling, transparency and spousal approval, increasingly varied due to innovations in the fintech sector, affect intrahousehold allocation decisions. We also assess the impact of personally earning money versus gifted money on subsequent expenditure decisions of couples.  Affiliated authors and institutions: Tara Bedi, Anu Jose and Michael King. Trinity College Dublin.  
+
+<br>
+
 ### Exploring Intra-Household Gender Differences in Reporting Exposure to Shocks 
 Poor households are more susceptible to face negative shocks, which may undermine development and anti-poverty interventions. Yet, in attempting to understand households’ exposure to shocks, it might be imperative to consider the gender of the respondent when utilizing survey-based measures. A growing body of literature is exposing intra-household gender differences in survey reporting of various socio-economic measures, even those seemingly objective. This paper contributes by adding a “shocks” dimension to this literature. Using survey data that captures household shock reports by both the male and female spouse within a household in rural Malawi, the paper aims to establish whether men and women report household shocks differently. Moreover, it seeks to explore possible mechanisms that correlate with spousal concordance, and whether concordance can be associated with women’s wellbeing outcomes. Finally, it aims to evaluate whether a randomised couple’s empowerment training impacts spousal concordance in reporting household shocks. The results of this paper will inform valuable considerations for research using survey-based measures to study household shocks. For instance, if systematic differences are detected, reliance on responses from only one spouse might entail biases which should be carefully considered when targeting, or evaluating the impact of, development interventions based on these measures.  Affiliated authors and institutions: Nouf Abushehab, Tara Bedi, and Michael King. Trinity College Dublin. 
 
 <br>
 
-### Empowering Women Farmers through Precision Agriculture and Market E-Linkages:  
-
-Our mixed methods research  investigates the effect of leveraging agronomically and climate-informed Digital Agricultural Technology (DAT) to provide site-specific advisories on crop management, soil quality, and climate-smart practices, specifically targeting women farmers, on household agriculture productivity, climate adaptation, income and women's empowerment. We are currently designing a lab in the field experiment to disentangle key preferences and take up for digital agriculture technology. Affiliated authors and institutions: Supriya Garikipati, Tara Bedi, John O Omondi,  Kevin McDonnell, Richard Petautchere, Marta Talevi.  University College Dublin, Trinity College Dublin, IITA-Malawi, NASFAM
-
-<br>
