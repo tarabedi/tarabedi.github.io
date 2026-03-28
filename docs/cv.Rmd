@@ -43,29 +43,32 @@ Core subjects: Analysing politics for policy, human rights and international pol
 Portland, USA*<br>
 *BA in Economics with Honours*, 1996 - 2000
 
-#### **PEER REVIEWED BOOK**
+#### **PUBLICATIONS**
+
+#### **PEER REVIEWED**
+* Bedi, T., and L. Kuld.``Accountability in the Delivery of Guaranteed Employment Through MGNREGA in Rural India," Review of Development Economics (2026), pp. 1-21.
 * Hyperination in Zimbabwe: Background, Impact, and Policy,
 _Palgrave Pivot_ (2019), with T. McIndoe-Calder and R. Mercado.
 
-#### **PUBLICATIONS**
+#### **R\&R**
+* Developing an Evaluation Framework for Gender-responsive Climate Change Adaptation Programme: from Design to Impact, with X. Zhao
+* Forty Years of Charitable Giving in Ireland: What have we learnt, with  O. B. Breen and J. Carroll.
+
+#### **Working papers**
+* From Awareness to Action: What it Takes to Reduce School-Related Gender-Based Violence. The impact of a multi-component program in Zambia, with S. Friedson-Ridenour, W. Chang, M. Ebrahim, A. Jose, M. King, M. Obbie, K. Samuyachi, C. Z. Glave Barrantes, and Y. Chavarria Garcia. Policy Research Working Paper 11245. World Bank.
+* Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer's Innovation Fund in Ethiopia, with N. Buehren, M. Goldstein and T. A. Ketema. Policy Research Working Paper 10651. World Bank.
+* Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King.  TEP Working Paper No. 1323. Trinity College Dublin 
+
+#### **Non-Peer Reviewed Publications**
 * Formal Financial Inclusion in Kenya: Understanding the Demand-Side Constraints. (2015), with M. King. Chapter in Kenya’s Financial Transformation in the 21st Century. Edited by Amrik Heyer and Michael King. Nairobi, Kenya: FSD Kenya
 * Leading Edge 2020: Critical Thinking on the Future of International Development. (2011), with M. Bateman, L. Gold and O. Moore. Trócaire.
-* My Word is my Bond: Delivery of aid commitments by Ireland. (2010), with B Riordan. Tr\`{o}caire Development Review 2010, 101-22
+* My Word is my Bond: Delivery of aid commitments by Ireland. (2010), with B Riordan. Trócaire Development Review 2010, 101-22
 * More than a pretty picture: using poverty maps to design better policies and interventions. (2007), with A. Coudouel and K. Simler. Washington, DC: World Bank.
 * Beyond the numbers: understanding the institutions for monitoring poverty reduction strategies. (2006), with A. Coudouel, M. Cox, M. Goldstein, and N. Thornton. Washington, DC: World Bank.
 * Impact Evaluation and the Project Cycle. (2006), with S. Bhatti, X. Gine, E Galasso, M. Goldstein, and A. Legovini.
 
-#### **R\&R**
-* Accountability of public works entitlements in rural India, with L. Kuld.
-* Forty Years of Charitable Giving in Ireland: What have we learnt, with  O. B. Breen and J. Carroll.
-
-#### **WORKING PAPERS**
-* Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer's Innovation Fund in Ethiopia (2022), with N. Buehren, M. Goldstein and T. A. Ketema
-* Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King
-
 #### **PAPERS IN PROGRESS**
 * Natural Disasters, Mental Health and the Ultra-poor: Intra-household Impacts of Cyclone Idai in Malawi, with A. Jose, M. King, S. McArdle
-* Developing an Evaluation Framework for Gender-responsive Climate Change Adaptation Programme: from Design to Impact, with X. Zhao
 * Ultra-Poor Graduation and Environmental Shocks: Evidence from the 2019 Malawian Floods, with M. King and I. Noy
 * Gender Targeting and Household Cooperation: Experimental Evidence from a Multifaceted Anti-poverty Program in Malawi, with M. King and J. Vaillant
 * Income Uncertainty and Preferences for Formal Financial Products: Evidence from Rural Kenya, with M. King.
@@ -88,13 +91,13 @@ _Palgrave Pivot_ (2019), with T. McIndoe-Calder and R. Mercado.
 **Trinity College Dublin** <br>
 Dublin, Ireland <br>
 * Module Coordinator & Lecturer, Theories of Development, 
-Masters in Development Practice, 2024  <br>
+Masters in Development Practice, 2024-2026  <br>
 * Module Coordinator & Lecturer, Dissertation \& Work Placement, 
-Masters in Development Practice, 2024  <br>
+Masters in Development Practice, 2024-2026  <br>
 * Module Coordinator & Lecturer, Gender and Development, 
-Masters in Development Practice, 2023-2024  <br>
+Masters in Development Practice, 2023-2026  <br>
 * Module Coordinator & Lecturer, Impact Measurement, 
-Masters in Development Practice, 2018 - 2024  <br>
+Masters in Development Practice, 2018 - 2026  <br>
 * Lecturer, Survey Design and Qualitative Evaluation Methods, 
 Trinity IMpact Evaluation (TIME) Online Course on Impact Evaluation, 2021 - 2024  <br>
 * Supervision of 28 master dissertations, 
@@ -107,7 +110,7 @@ Department of Economics, 2015 - 2016  <br>
 Department of Economics, 2013 - 2014  <br>
 
 #### **Honours, Awards, Grants**
-
+* Beyond Finance: Unlocking Women's Climate Adaptation and Resilience through Collective and Sustainable Investment through VSLAs (2026-2028), with Anu Jose, Winnie Muangi, Aletheia Donald. Funder: World Bank (\$100,000).
 * Mental Well-Being and School-Related Gender Based Violence: Evidence from Zambia (2023 - 2025), with Wei Chang, Menaal Ebrahim, Anu Jose, Michael King, and Sophia Friedson-Ridenour. Funder: World Bank (\${250,000})
 * Gender Norms and the Mauritania Social Transfer Programme (2021 - 2024), with Michael King, Rachael Pierotti and Julia Vaillant. Funder 1: World Bank (\$320,750); Funder 2: International Food Policy Research Institute (IFPRI) (\$125,000)
 * Impact Evaluation of Concern’s Graduation Model in Malawi (2017 - 2025), with Michael King. Funder: Concern Worldwide (\€2,250,000)
