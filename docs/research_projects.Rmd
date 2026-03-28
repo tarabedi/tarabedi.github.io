@@ -4,12 +4,17 @@ output:
   html_document:
     fig_width: 1
 ---
+### Climate-Smart Investment Through Women's Village Savings and Loan Associations in Tanzania:
 
+Designed and secured funding to implement a randomised control trial (RCT) testing whether layering climate information and coordination for collective green investment onto existing Village Savings and Loan Associations (VSLA) infrastructure increases women's adoption of climate-smart agricultural practices and improves household economic outcomes and climate resilience in rural Tanzania. The study targets 200 VSLAs (1,800 women) across three districts in Iringa Region, where women constitute the majority of agricultural labour yet face restrictive social norms, limited credit access, and heightened vulnerability to climate shocks. Affiliated authors and institutions: Tara Bedi, Anu Jose, Winnie Muangi, Aletheia Donald. Trinity College Dublin, University of Galway, University of Dar es Salaam, World Bank. Funder: World Bank (\$100,000). (2026--2028)
+
+
+<br>
 
 ### Gender impacts from the Graduation Programme in Malawi:
 Research website:  https://www.tcd.ie/time/research/malawigraduation/
 
-Designed, secured funding and implemented a four arm (three treatments and one control) randomised control trial (RCT) from a pool of 3,200 eligible poor married households in rural Malawi. The research studies the impact of varying the gender of the recipient of an anti-poverty programme (the Graduation program) and a gender empowerment training on intrahousehold bargaining power, well-being, and household poverty. Affiliated authors and institutions: Tara Bedi, Michael King, and Julia Vaillant. Trinity College Dublin, Africa Gender Innovation Lab World Bank.
+Designed, secured funding and implemented a four arm (three treatments and one control) RCT from a pool of 3,200 eligible poor married households in rural Malawi. The research studies the impact of varying the gender of the recipient of an anti-poverty programme (the Graduation program) and a gender empowerment training on intrahousehold bargaining power, well-being, and household poverty. Affiliated authors and institutions: Tara Bedi, Michael King, and Julia Vaillant. Trinity College Dublin, Africa Gender Innovation Lab World Bank.
 
 <br>
 
