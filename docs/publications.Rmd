@@ -7,14 +7,20 @@ output:
 
 <br>
 
-### Peer-reviewed book
+### Peer-reviewed 
 
+- Bedi, T., and L. Kuld. "Accountability in the Delivery of Guaranteed Employment Through MGNREGA in Rural India," Review of Development Economics (2026), pp. 1–21.
 - Hyperination in Zimbabwe: Background, Impact, and Policy,
 _Palgrave Pivot_ (2019), with T. McIndoe-Calder and R. Mercado.
 
 ### R \& R
-- Accountability of public works entitlements in rural India, with L. Kuld.
+- Developing an Evaluation Framework for Gender-responsive Climate Change Adaptation Programme: from Design to Impact, with X. Zhao
 - Forty Years of Charitable Giving in Ireland: What have we learnt, with  O. B. Breen and J. Carroll.
+
+### Working Papers
+ - Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer's Innovation Fund in Ethiopia (2022), with N. Buehren, M. Goldstein and T. A. Ketema. Policy Research Working Paper 10651. World Bank.
+- Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King.  TEP Working Paper No. 1323. Trinity College Dublin 
+- From Awareness to Action: What it Takes to Reduce School-Related Gender-Based Violence. The impact of a multi-component program in Zambia, with S. Friedson-Ridenour, W. Chang, M. Ebrahim, A. Jose, M. King, M. Obbie, K. Samuyachi, C. Z. Glave Barrantes, and Y. Chavarria Garcia. Policy Research Working Paper 11245. World Bank.
 
 ### Publications
 - Formal Financial Inclusion in Kenya: Understanding the Demand-Side Constraints. (2015), with M. King. Chapter in Kenya's Financial Transformation in the 21st Century.} Edited by Amrik Heyer and Michael King. Nairobi, Kenya: FSD Kenya
@@ -25,13 +31,8 @@ _Palgrave Pivot_ (2019), with T. McIndoe-Calder and R. Mercado.
 - Impact Evaluation and the Project Cycle. (2006), with S. Bhatti, X. Gine, E Galasso, M. Goldstein, and A. Legovini.   
 
 
-### Working Papers
- - Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer's Innovation Fund in Ethiopia (2022), with N. Buehren, M. Goldstein and T. A. Ketema
-- Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King
-
 ### Papers in Progress
 - Natural Disasters, Mental Health and the Ultra-poor: Intra-household Impacts of Cyclone Idai in Malawi, with A. Jose, M. King, S. McArdle
-- Developing an Evaluation Framework for Gender-responsive Climate Change Adaptation Programme: from Design to Impact, with X. Zhao
 - Ultra-Poor Graduation and Environmental Shocks: Evidence from the 2019 Malawian Floods, with M. King and I. Noy
 - Gender Targeting and Household Cooperation: Experimental Evidence from a Multifaceted Anti-poverty Program in Malawi, with M. King and J. Vaillant
 - Income Uncertainty and Preferences for Formal Financial Products: Evidence from Rural Kenya, with M. King.
