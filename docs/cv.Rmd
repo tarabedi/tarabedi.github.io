@@ -45,47 +45,52 @@ Portland, USA*<br>
 
 #### **PUBLICATIONS**
 
-#### **PEER REVIEWED**
-* Bedi, T., and L. Kuld.``Accountability in the Delivery of Guaranteed Employment Through MGNREGA in Rural India," Review of Development Economics (2026), pp. 1-21.
-* Hyperination in Zimbabwe: Background, Impact, and Policy,
-_Palgrave Pivot_ (2019), with T. McIndoe-Calder and R. Mercado.
+#### **PEER-REVIEWED**
+* Bedi, T., C. Boxho, M. King, R. Pierotti, F. Remnant and J. Vaillant. "Promoting Intrahousehold Collaboration as a Mechanism for Conflict Reduction: Evidence from a Cash-plus Program," _Social Science & Medicine_ (2026), 119995. [DOI: 10.1016/j.socscimed.2026.119995](https://doi.org/10.1016/j.socscimed.2026.119995)
+* Bedi, T., and L. Kuld. "Accountability in the Delivery of Guaranteed Employment Through MGNREGA in Rural India," _Review of Development Economics_ (2026), pp. 1–21. [DOI: 10.1111/rode.70144](https://doi.org/10.1111/rode.70144)
+* Hyperinflation in Zimbabwe: Background, Impact, and Policy. (2019), with T. McIndoe-Calder and R. Mercado. _Palgrave Pivot_. [DOI: 10.1007/978-3-030-31015-8](https://doi.org/10.1007/978-3-030-31015-8)
 
-#### **R\&R**
+#### **R \& R**
+* Donations Tax Policy and Charitable Income: An Analysis of Household Donations during a Period of Policy Change, with O. B. Breen and J. Carroll. _Nonprofit and Voluntary Sector Quarterly_ (late-stage revision, reviewers recommend publication).
+* From Awareness to Action? Experimental Evidence on Challenges in Reducing School-Related Gender-Based Violence Through a Multi-Component Program in Zambia, with S. Friedson-Ridenour, W. Chang, M. Ebrahim, A. Jose, M. King, M. Obbie, K. Samuyachi, C. Z. Glave Barrantes, and Y. Chavarria Garcia. Policy Research Working Paper 11245 (2025). World Bank.
+
+#### **UNDER REVIEW**
 * Developing an Evaluation Framework for Gender-responsive Climate Change Adaptation Programme: from Design to Impact, with X. Zhao
-* Forty Years of Charitable Giving in Ireland: What have we learnt, with  O. B. Breen and J. Carroll.
+* What Aggregate Measures Conceal: Mixed-Methods Evidence on Women's Empowerment, Gender Targeting, and Couples Training in Malawi, with R. Avard, J. Copestake, M. King and F. Remnant. [TEP1526](https://www.tcd.ie/Economics/TEP/2026/TEP1526.pdf) (2026). Trinity College Dublin.
+* Shifting Spousal Decision-Making Patterns: Whom You Target in an Agricultural Intervention Matters, with N. Buehren, M. Goldstein and T. A. Ketema. [Policy Research Working Paper 10651](http://documents.worldbank.org/curated/en/099844112182322847) (2023). World Bank.
 
-#### **Working papers**
-* From Awareness to Action: What it Takes to Reduce School-Related Gender-Based Violence. The impact of a multi-component program in Zambia, with S. Friedson-Ridenour, W. Chang, M. Ebrahim, A. Jose, M. King, M. Obbie, K. Samuyachi, C. Z. Glave Barrantes, and Y. Chavarria Garcia. Policy Research Working Paper 11245. World Bank.
-* Shifting spousal decision-making patterns: Who you target in an agriculture intervention matter. The impact of Farmer's Innovation Fund in Ethiopia, with N. Buehren, M. Goldstein and T. A. Ketema. Policy Research Working Paper 10651. World Bank.
-* Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King.  TEP Working Paper No. 1323. Trinity College Dublin 
-
-#### **Non-Peer Reviewed Publications**
-* Formal Financial Inclusion in Kenya: Understanding the Demand-Side Constraints. (2015), with M. King. Chapter in Kenya’s Financial Transformation in the 21st Century. Edited by Amrik Heyer and Michael King. Nairobi, Kenya: FSD Kenya
-* Leading Edge 2020: Critical Thinking on the Future of International Development. (2011), with M. Bateman, L. Gold and O. Moore. Trócaire.
-* My Word is my Bond: Delivery of aid commitments by Ireland. (2010), with B Riordan. Trócaire Development Review 2010, 101-22
-* More than a pretty picture: using poverty maps to design better policies and interventions. (2007), with A. Coudouel and K. Simler. Washington, DC: World Bank.
-* Beyond the numbers: understanding the institutions for monitoring poverty reduction strategies. (2006), with A. Coudouel, M. Cox, M. Goldstein, and N. Thornton. Washington, DC: World Bank.
-* Impact Evaluation and the Project Cycle. (2006), with S. Bhatti, X. Gine, E Galasso, M. Goldstein, and A. Legovini.
+#### **WORKING PAPERS**
+* Who Recovers? Gender, Coping Strategies, and the Psychological Costs of Cyclone Idai in Malawi, with A. Jose, M. King and S. McArdle. [TEP1726](https://www.tcd.ie/Economics/TEP/2026/TEP1726.pdf) (2026). Trinity College Dublin.
+* Mental Accounting, Spousal Control and Intra-Household Communication: Evidence from an Experiment in India, with A. Jose and M. King. TEP Working Paper No. 1323 (2023). Trinity College Dublin.
 
 #### **PAPERS IN PROGRESS**
-* Natural Disasters, Mental Health and the Ultra-poor: Intra-household Impacts of Cyclone Idai in Malawi, with A. Jose, M. King, S. McArdle
-* Ultra-Poor Graduation and Environmental Shocks: Evidence from the 2019 Malawian Floods, with M. King and I. Noy
+* Delivery Channels for Digital Agricultural Advice: Experimental Evidence from Women Farmers in Malawi, with L. Mgalamadzi, M. Talevi and S. Garikipati
 * Gender Targeting and Household Cooperation: Experimental Evidence from a Multifaceted Anti-poverty Program in Malawi, with M. King and J. Vaillant
 * Income Uncertainty and Preferences for Formal Financial Products: Evidence from Rural Kenya, with M. King.
-* Moving the Female Empowerment Needle: A Mixed-Method Evaluation of A Gender Focused Multifaceted Anti-Poverty Programme in Malawi, with R. Avard, J. Copestake, M. King and F. Remnant.
-* A mixed method approach to understanding Gender Social Norms, IPV and the Mauritania Social Transfer Program, with C. Boxho, M. King, R. Pierotti and J. Vaillant.
 * Bargaining, Poverty Stress, or Backlash? Reducing Violence Among the Ultra-Poor, with M. King, A. Ramos, and J. Vaillant.
+* Couples' Training, Community Edutainment, and Economic Inclusion: Experimental Evidence from a Cash-Plus Programme in Mauritania, with M. King and J. Vaillant
+* Ultra-Poor Graduation and Environmental Shocks: Evidence from the 2019 Cyclone Idai, with M. King and I. Noy
+
+#### **REPORTS AND EDITED VOLUMES**
+* Concern Worldwide (2024). [Impact of Gender Transformative Dialogue in the Graduation Programme, Findings from Research in Malawi](https://admin.concern.net/sites/default/files/documents/2024-11/Malawi%20Graduation%20and%20Gender%20Impact%20Report.pdf). Data analysis and contribution to drafting.
+* Bedi, T. and M. King (2015). Formal Financial Inclusion in Kenya: Understanding the Demand-Side Constraints. Chapter in _Kenya's Financial Transformation in the 21st Century_, edited by A. Heyer and M. King. Nairobi: FSD Kenya.
+* Bedi, T., M. Bateman, L. Gold and O. Moore (2011). Leading Edge 2020: Critical Thinking on the Future of International Development. Trócaire.
+* Bedi, T. and B. Riordan (2010). My Word is my Bond: Delivery of aid commitments by Ireland. _Trócaire Development Review 2010_, 101–22.
+* Bedi, T., A. Coudouel and K. Simler (eds.) (2007). [More Than a Pretty Picture: Using Poverty Maps to Design Better Policies and Interventions](https://doi.org/10.1596/978-0-8213-6931-9). Washington, DC: World Bank.
+* Bedi, T., A. Coudouel, M. Cox, M. Goldstein and N. Thornton (2006). [Beyond the Numbers: Understanding the Institutions for Monitoring Poverty Reduction Strategies](https://hdl.handle.net/10986/7125). Washington, DC: World Bank.
+* Bedi, T., S. Bhatti, X. Gine, E. Galasso, M. Goldstein and A. Legovini (2006). [Impact Evaluation and the Project Cycle](http://documents.worldbank.org/curated/en/594271468320047885). Washington, DC: World Bank.
 
 #### **POLICY BRIEFS**
+* [Overview of the Results from the QuIP Report on Concern Worldwide Graduation Programme](https://www.tcd.ie/media/tcd/time/pdfs/overview-results-of-QuIP-report-brief-may2019.pdf)
+* [The Graduation Model and Gender Empowerment Research Project in Malawi](https://admin.concern.net/sites/default/files/documents/2022-01/The%20Graduation%20Model%20and%20Gender%20Empowerment%20Research%20Project%20in%20Malawi%202018.pdf)
+* [Highlights from the Baseline Survey on the Graduation Households](https://www.tcd.ie/media/tcd/time/pdfs/graduation-baseline-survey-brief-may2019.pdf)
+* [The Impact of Cyclone Idai on the Poorest](https://www.tcd.ie/media/tcd/time/pdfs/the-impact-of-cyclone-idai.pdf)
 * Achieving social impact through Graduation programmes
-* Overview of the Results from the QuIP Report on Concern Worldwide Graduation Programme, Malawi, with Concern Worldwide.
-* The Graduation Model and Gender Empowerment Research Project in Malawi, with Concern Worldwide.
-* Highlights from the Baseline Survey on the Graduation Households, with Concern Worldwide. 
 * The Umodzi Pilot: Successes and Learnings, with Concern Worldwide.
 
-#### **BLOGS**
-* Invited podcast guest on [Brand Called You](https://www.youtube.com/watch?v=eyvcEuIqstg)
-* Spotlight on Research: [Tara Bedi](https://research.ie/what-we-do/loveirishresearch/blog/spotlight-on-research-tara-bedi/}{Spotlight on Research: Tara Bedi)
+#### **BLOGS AND PODCASTS**
+* Invited podcast guest on [The Brand Called You](https://www.youtube.com/watch?v=eyvcEuIqstg)
+* [Spotlight on Research: Tara Bedi](https://research.ie/what-we-do/loveirishresearch/blog/spotlight-on-research-tara-bedi/)
 
 #### **TEACHING EXPERIENCE**
 **Trinity College Dublin** <br>
